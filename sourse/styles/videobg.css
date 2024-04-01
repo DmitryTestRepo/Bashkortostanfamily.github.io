@@ -1,0 +1,37 @@
+.bgvideo {
+    height: 40vh;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bgvideo video {
+    height: 40vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.effect {
+    height: 40vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.252);
+}
+
+
+.video-text {
+    color: rgb(196, 187, 187);
+    z-index: 2;
+    font-size: 40px;
+}

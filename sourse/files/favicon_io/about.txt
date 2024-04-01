@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Chakma
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/chakma)
+- Font Source: https://fonts.gstatic.com/s/notosanschakma/v17/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi4JjTQhYBeYo.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
